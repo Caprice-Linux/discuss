@@ -8,6 +8,7 @@ Just go to [issues](/issues) and start a new issue. We'll discuss the issues and
 - [Introducing Caprice in Online Forums and Groups](https://github.com/Caprice-Linux/discuss/issues/1)
 - [Default Desktop Environment](https://github.com/Caprice-Linux/discuss/issues/2)
 - [Persian Introduction Draft](https://github.com/Caprice-Linux/discuss/issues/3)
+- [مشکل ساخت دیسک بوتیبل از ایزوی بتای کاپریس](https://github.com/Caprice-Linux/discuss/issues/4)
 
 ## List of accepted/solved issues 
 
